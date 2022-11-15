@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="left"> Hi 👋 I'm PicTrance </h1>
 <p align="left"> </p>
 
-![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
+![Snake animation](https://github.com/PicTrance/PicTrance/blob/main/github_snake.svg)
 
 ### Redes Sociales 
 <div align="center">
