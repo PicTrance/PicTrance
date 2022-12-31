@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="left"> Hi 👋 I'm PicTrance </h1>
+<h1 align="left"> Hi 👋 I'm PicTrance, ... Mexicano, Ingeniero electrónico, amante de la naturaleza y de la fotografía, Amateur Photographer,
+Enjoy my World ...</h1>
 <p align="left"> </p>
 
 ![Snake animation](https://github.com/PicTrance/PicTrance/blob/main/github_snake.svg)
